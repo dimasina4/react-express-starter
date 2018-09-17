@@ -1,1 +1,1 @@
-react-express-starter
+studied in https://github.com/bradtraversy/react_express_starter
